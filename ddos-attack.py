@@ -19,10 +19,10 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print("Author   : HA-MRX")
 print("Change By: YIJANGs")
-print("Fork From : https://github.com/Ha3MrX/DDos-Attack")
+print("Fork From: https://github.com/Ha3MrX/DDos-Attack")
 
 print()
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
